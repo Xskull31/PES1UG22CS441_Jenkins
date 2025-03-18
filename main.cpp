@@ -7,6 +7,7 @@ int main() {
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
+    CC sucks
 
     // Printing user input
     std::cout << "Hello, " << name << "!" << std::endl;
